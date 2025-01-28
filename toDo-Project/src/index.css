@@ -1,0 +1,32 @@
+:root{
+  background-color: black;
+}
+
+
+body, h1, ul, li, input, button {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: #333;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+input, button {
+  font-size: 1rem;
+}
+
+
+
